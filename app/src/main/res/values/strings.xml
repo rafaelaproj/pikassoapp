@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PikassoApp</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="set_color">Set Color</string>
+</resources>
