@@ -1,2 +1,2 @@
 # pikassoapp
-A drawing app.
+A drawing app for Android.
